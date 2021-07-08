@@ -1,3 +1,8 @@
+## Wrap-Up Report
+- 실험 과정 및 회고 : [Wrap-Up Report](https://github.com/ddooom/p2-klue-ddooom/blob/main/Wrap-up%20Report.pdf)
+
+<br>
+
 ## Task : 문장 내 개체간 관계 추출
 - sentence와 sentence 안의 entity 2개를 입력 받으면 entity 간의 관계를 출력한다.
 
